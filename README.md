@@ -14,8 +14,13 @@ In my freetime, I enjoy:
 
 - :film_projector: watching [Another Life](https://www.netflix.com/title/80236236)
 
-$\:$
+<br/>
 
 I'm curious about:  
 - :computer: [Julia](https://julialang.org/) programming language
+
+<br/>
+
+Social: 
+- [LinkedIn](https://www.linkedin.com/in/riley-heiman-50717814b/)
 
