@@ -1,6 +1,6 @@
 ### Hello :raising_hand_man: 
 
-My name is Riley, and I have Master’s in Financial Engineering from [Stevens Institute of Technology](https://www.stevens.edu/). I'm also from Green Bay, Wisconsin. Home of the cheese heads!  :cheese: :football: :snowflake:	
+My name is Riley, and I have Master’s in Financial Engineering from [Stevens Institute of Technology](https://www.stevens.edu/). I'm from Green Bay, Wisconsin. Home of the cheese heads!  :cheese: :football: :snowflake:	
 
 I program in Python, C++ , R and SQL. My favorite projects and assignments are:
 
