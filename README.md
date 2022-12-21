@@ -2,7 +2,7 @@
 
 My name is Riley, and I have Master’s in Financial Engineering from [Stevens Institute of Technology](https://https://www.stevens.edu/). I'm also from Green Bay, Wisconsin. Home of the cheese heads!  :cheese: :football: 
 
-I program in Python, C++ , R and SQL Some of my favorite projects and assignments are below: 
+I program in Python, C++ , R and SQL. My favorite projects and assignments are:
 
 
 
