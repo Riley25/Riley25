@@ -10,7 +10,7 @@ In my freetime, I enjoy:
 
 - :telescope: stargazing & looking at the planets with my telescope
 
-- :open_book: reading [Fisher Black and the Revolutionary Idea of Finance](Book-Fisher_Black_and_the_Revolutionary_Idea_of_Finance)
+- :open_book: reading [Fisher Black and the Revolutionary Idea of Finance](Book-Fisher_Black_and_the_Revolutionary_Idea_of_Finance.jpg)
 
 - :film_projector: watching [Another Life](https://www.netflix.com/title/80236236)
 
