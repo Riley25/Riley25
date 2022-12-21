@@ -6,26 +6,16 @@ I program in Python, C++ and R. Some of my favorite projects and assignments are
 
 
 
-My hobbies include:
+In my freetime, I enjoy:
+
 - :telescope: stargazing & looking at the planets with my telescope
+
+- :open_book: reading [Fisher Black and the Revolutionary Idea of Finance](Book-Fisher_Black_and_the_Revolutionary_Idea_of_Finance)
 
 - :film_projector: watching [Another Life](https://www.netflix.com/title/80236236)
 
-My currently curious about:  
-- :books: [Julia](https://julialang.org/) programming language
+$\:$
 
+I'm curious about:  
+- :computer: [Julia](https://julialang.org/) programming language
 
-<!--
-**Riley25/Riley25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
