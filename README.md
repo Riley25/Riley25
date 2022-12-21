@@ -1,4 +1,6 @@
-### Hi there 👋 
+### Hello :raising_hand_man: My name is Riley:
+
+I mostly code in Python, R & C++. I mostly code in Python, R & C++. I have a Master’s in Financial Engineering from the[Stevens Institute of Technology](https://https://www.stevens.edu/)
 
 :telescope:
 
