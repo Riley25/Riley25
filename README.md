@@ -22,5 +22,5 @@ I'm curious about:
 <br/>
 
 Social: 
-- [LinkedIn](https://www.linkedin.com/in/riley-heiman-50717814b/)
+- Personal [LinkedIn](https://www.linkedin.com/in/riley-heiman-50717814b/)
 
