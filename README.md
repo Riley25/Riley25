@@ -4,7 +4,7 @@ My name is Riley, and I have Master’s in Financial Engineering from [Stevens I
 
 I program in Python, C++ , R and SQL. My favorite projects and assignments are:
 
-- Capstone 
+- [Capstone](https://github.com/Riley25/FE-800)
 - [Pricing and Hedging](https://github.com/Riley25/FE-620)
 - 621 
 - 610 
