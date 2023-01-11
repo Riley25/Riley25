@@ -10,7 +10,7 @@ I program in Python, C++ , R and SQL. My favorite projects and assignments are:
 
 - [Computational Methods in Finance](https://github.com/Riley25/FE-621) (*Python programming*)
   
-- [Stochastic Calculus]()
+- [Stochastic Calculus](https://github.com/Riley25/FE-610)
 
 
 In my freetime, I enjoy:
