@@ -14,7 +14,7 @@ I program in Python, C++ , R and SQL. My favorite projects and assignments are:
 
 Data Science Projects
 
-- [Predicting Loan Defaults]()
+- [Predicting Loan Defaults](https://github.com/Riley25/MSDS-705)
 
 
 In my freetime, I enjoy:
