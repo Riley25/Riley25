@@ -12,6 +12,10 @@ I program in Python, C++ , R and SQL. My favorite projects and assignments are:
   
 - [Stochastic Calculus](https://github.com/Riley25/FE-610)
 
+Data Science Projects
+
+- [Predicting Loan Defaults]()
+
 
 In my freetime, I enjoy:
 
