@@ -2,7 +2,15 @@
 
 My name is Riley, and I have Master’s in Financial Engineering from [Stevens Institute of Technology](https://www.stevens.edu/). I'm from Green Bay, Wisconsin. Home of the cheese heads!  :cheese: :football: :snowflake:	
 
-I program in Python, C++ , R and SQL. My favorite projects and assignments are:
+I program in Python, C++ , R and SQL. Some recent projects and assignments are:
+
+
+Data Science Projects
+
+- [Predicting Loan Defaults](https://github.com/Riley25/MSDS-705)
+
+
+Financial Engineering Projects
 
 - [Capstone](https://github.com/Riley25/FE-800) (*Python programming*)
  
@@ -10,11 +18,6 @@ I program in Python, C++ , R and SQL. My favorite projects and assignments are:
 
 - [Computational Methods in Finance](https://github.com/Riley25/FE-621) (*Python programming*)
   
-
-Data Science Projects
-
-- [Predicting Loan Defaults](https://github.com/Riley25/MSDS-705)
-
 
 
 In my freetime, I enjoy:
