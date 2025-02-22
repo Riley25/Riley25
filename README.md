@@ -6,7 +6,7 @@ I program in Python, C++ , R and SQL. Some recent projects and assignments are:
 
 Passion Project (**new!**)
 - [FalconEDA](https://FalconEDA.com)
-- This website is a Python-based exploratory data analysis (EDA) tool designed for quick and efficient data visualization and analysis. 
+  This website is a Python-based exploratory data analysis (EDA) tool designed for quick and efficient data visualization and analysis. 
 
 <br />
 
