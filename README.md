@@ -4,8 +4,11 @@ My name is Riley, and I have Master’s in Financial Engineering from [Stevens I
 
 I program in Python, C++ , R and SQL. Some recent projects and assignments are:
 
-Passion Project 
+Passion Project (**new!**)
 - [FalconEDA](https://FalconEDA.com)
+- FalconEDA is a Python-based exploratory data analysis (EDA) tool designed for quick and efficient data visualization and analysis. 
+
+<br />
 
 Data Science Projects
 
