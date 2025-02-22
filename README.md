@@ -4,7 +4,7 @@ My name is Riley, and I have Master’s in Financial Engineering from [Stevens I
 
 I program in Python, C++ , R and SQL. Some recent projects and assignments are:
 
-**Passion Project** *new!*
+**Passion Project** (*new!*)
 - [FalconEDA](https://FalconEDA.com)
   - This website is a Python-based exploratory data analysis (EDA) tool designed for quick and efficient data visualization and analysis. 
 
@@ -13,6 +13,7 @@ I program in Python, C++ , R and SQL. Some recent projects and assignments are:
 **Data Science Projects**
 - [Predicting Loan Defaults](https://github.com/Riley25/MSDS-705)
 
+<br />
 
 **Financial Engineering Projects**
 
@@ -22,7 +23,7 @@ I program in Python, C++ , R and SQL. Some recent projects and assignments are:
 
 - [Computational Methods in Finance](https://github.com/Riley25/FE-621) (*Python programming*)
   
-
+<br />
 
 In my freetime, I enjoy:
 
